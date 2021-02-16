@@ -1,7 +1,7 @@
-Cue,Answer,Shuffle,Stimuli Notes,Value
-Video/Animotica_F_Jump.mp4,Jumping,,,1
-Video/Animotica_F_JJacks.mp4,Jumping Jacks,,,2
-Video/Animotica_F_Sit.mp4,Sitting,,,3
-Video/Animotica_F_Squat.mp4,Squatting,,,4
-Video/Animotica_F_Skip.mp4,Skipping,,,5
-Video/Animotica_F_Jog.mp4,Jogging,,,6
+Cue,Answer,Shuffle,Shuffle 2,Stimuli Notes,Value
+Video/Animotica_F_Jump.mp4,Jumping,OFF,,,1
+Video/Animotica_F_JJacks.mp4,Jumping Jacks,OFF,,,2
+Video/Animotica_F_Sit.mp4,Sitting,OFF,,,3
+Video/Animotica_F_Squat.mp4,Squatting,OFF,,,4
+Video/Animotica_F_Skip.mp4,Skipping,OFF,,,5
+Video/Animotica_F_Jog.mp4,Jogging,OFF,,,6
