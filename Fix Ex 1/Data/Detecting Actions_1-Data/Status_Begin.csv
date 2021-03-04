@@ -1,0 +1,11 @@
+Username,ID,Date,Session,Condition_Number,Condition_Description,Output_File,Stimuli_File,Procedure_File,Browser,DeviceType,OS,IP
+93q84659q837,gpv7364cfr,2021-02-16T22:31:51+00:00,1,1,"Experiment 1 videos",Output_Session1_93q84659q837_gpv7364cfr.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+Testing,ubnb5yz00f,2021-02-16T23:15:10+00:00,1,1,"Experiment 1 videos",Output_Session1_Testing_ubnb5yz00f.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+testing2,crn2zwzoav,2021-02-16T23:33:09+00:00,1,1,"Experiment 1 videos",Output_Session1_testing2_crn2zwzoav.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+Testing3,a12f6jtywi,2021-02-16T23:50:32+00:00,1,1,"Experiment 1 videos",Output_Session1_Testing3_a12f6jtywi.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+test,txtac4f3np,2021-02-17T22:27:13+00:00,1,1,"Experiment 1 videos",Output_Session1_test_txtac4f3np.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+test,w6j6v6416o,2021-02-19T18:21:35+00:00,1,1,"Experiment 1 videos",Output_Session1_test_w6j6v6416o.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+W785427,0dal1uzq8e,2021-02-24T04:38:50+00:00,1,1,"Experiment 1 videos",Output_Session1_W785427_0dal1uzq8e.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,10.0.13.130
+testlabmeet,db0h7f0bgh,2021-02-25T18:40:46+00:00,1,1,"Experiment 1 videos",Output_Session1_testlabmeet_db0h7f0bgh.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,10.0.13.131
+w10112170,etvjwjx8bz,2021-03-01T12:44:35+00:00,1,1,"Experiment 1 videos",Output_Session1_w10112170_etvjwjx8bz.csv,versionA_stim.csv,ActionProcedureEx1.csv,"Safari Generic",Desktop,MacOSX,10.0.13.131
+10063255,pvk4etu7ki,2021-03-02T03:10:28+00:00,1,1,"Experiment 1 videos",Output_Session1_10063255_pvk4etu7ki.csv,versionA_stim.csv,ActionProcedureEx1.csv,"Chrome Generic",Desktop,MacOSX,10.0.13.130

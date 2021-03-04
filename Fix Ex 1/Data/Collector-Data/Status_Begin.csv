@@ -1,0 +1,4 @@
+Username,ID,Date,Session,Condition_Number,Condition_Description,Output_File,Stimuli_File,Procedure_File,Browser,DeviceType,OS,IP
+juvug,0j3lie54vg,2021-02-15T19:31:27+00:00,1,1,,Output_Session1_juvug_0j3lie54vg.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+hogevd,1ntysezo1p,2021-02-16T20:45:31+00:00,1,1,"Experiment 1 videos",Output_Session1_hogevd_1ntysezo1p.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
+jadbogavd,x97zbpd42k,2021-02-16T21:50:01+00:00,1,1,"Experiment 1 videos",Output_Session1_jadbogavd_x97zbpd42k.csv,versionA_stim.csv,ActionProcedureEx1.csv,DefaultProperties,unknown,unknown,::1
